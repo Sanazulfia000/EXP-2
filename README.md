@@ -51,13 +51,34 @@ Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
 
+<img width="1380" height="626" alt="expt 2 a)" src="https://github.com/user-attachments/assets/0511cc4c-e58d-4984-bbf4-ef0b4926a76c" />
+
+
 Model graph:
+
+<img width="1464" height="456" alt="expt 2 a) graph" src="https://github.com/user-attachments/assets/f5d05372-5473-4055-9299-51eb827c967b" />
+
+
 Calculation: 
 
-Open circuit characteristics
+<img width="400" height="356" alt="image" src="https://github.com/user-attachments/assets/3310a7be-1daa-499d-b95a-44d599b10b21" />
+
 
   
-Load Characteristics:
- 
+Magnetisation Load Characteristics:
+
+Tabulation for Load Test:
+
+<img width="732" height="415" alt="image" src="https://github.com/user-attachments/assets/a14088b4-3620-45df-b30a-2bd4016b4755" />
+
+Model graph:
+
+<img width="772" height="372" alt="image" src="https://github.com/user-attachments/assets/86f5417e-93a8-44c3-a4a9-928e9d777299" />
+
+Calculation:
+
+<img width="577" height="555" alt="image" src="https://github.com/user-attachments/assets/9b237def-3e94-40d4-b9dc-66a98ea999f3" />
+
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
